@@ -1,0 +1,19 @@
+{
+  "name": "hireact",
+  "version": "1.0.0",
+  "description": "React tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/legendPerceptor/React-tutorial.git"
+  },
+  "author": "Hython QSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legendPerceptor/React-tutorial/issues"
+  },
+  "homepage": "https://github.com/legendPerceptor/React-tutorial#readme"
+}
